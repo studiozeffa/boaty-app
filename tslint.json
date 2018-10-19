@@ -1,0 +1,13 @@
+{
+  "extends": [
+    "tslint:recommended",
+    "tslint-react",
+    "tslint-config-prettier",
+    "tslint-plugin-prettier"
+  ],
+  "rules": {
+    "prettier": true,
+    "quotemark": [true, "single", "jsx-double"],
+    "object-literal-sort-keys": false
+  }
+}
