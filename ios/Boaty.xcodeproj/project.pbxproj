@@ -315,14 +315,14 @@
 			remoteGlobalIDString = 358F4ED71D1E81A9004DF814;
 			remoteInfo = RCTBlob;
 		};
-		FE0825792183317700AE56A6 /* PBXContainerItemProxy */ = {
+		FE08253F2183233400AE56A6 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 354157CC9DC64AD28C5B56AC /* RNBlur.xcodeproj */;
 			proxyType = 2;
 			remoteGlobalIDString = A68BD7BC1BC31318005F02DF;
 			remoteInfo = RNBlur;
 		};
-		FE08257B2183317700AE56A6 /* PBXContainerItemProxy */ = {
+		FE0825412183233400AE56A6 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 354157CC9DC64AD28C5B56AC /* RNBlur.xcodeproj */;
 			proxyType = 2;
@@ -596,7 +596,7 @@
 				00E356EF1AD99517003FC87E /* BoatyTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
-				FE08254F2183317400AE56A6 /* Recovered References */,
+				FE0825152183233200AE56A6 /* Recovered References */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -623,7 +623,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		FE08254F2183317400AE56A6 /* Recovered References */ = {
+		FE0825152183233200AE56A6 /* Recovered References */ = {
 			isa = PBXGroup;
 			children = (
 				92F238F63ED2444B9532F18B /* libRNBlur.a */,
@@ -631,11 +631,11 @@
 			name = "Recovered References";
 			sourceTree = "<group>";
 		};
-		FE0825752183317600AE56A6 /* Products */ = {
+		FE08253B2183233400AE56A6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FE08257A2183317700AE56A6 /* libRNBlur.a */,
-				FE08257C2183317700AE56A6 /* libRNBlur.a */,
+				FE0825402183233400AE56A6 /* libRNBlur.a */,
+				FE0825422183233400AE56A6 /* libRNBlur.a */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -800,7 +800,7 @@
 					ProjectRef = 146833FF1AC3E56700842450 /* React.xcodeproj */;
 				},
 				{
-					ProductGroup = FE0825752183317600AE56A6 /* Products */;
+					ProductGroup = FE08253B2183233400AE56A6 /* Products */;
 					ProjectRef = 354157CC9DC64AD28C5B56AC /* RNBlur.xcodeproj */;
 				},
 			);
@@ -1074,18 +1074,18 @@
 			remoteRef = ADBDB9261DFEBF0700ED6528 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		FE08257A2183317700AE56A6 /* libRNBlur.a */ = {
+		FE0825402183233400AE56A6 /* libRNBlur.a */ = {
 			isa = PBXReferenceProxy;
 			fileType = archive.ar;
 			path = libRNBlur.a;
-			remoteRef = FE0825792183317700AE56A6 /* PBXContainerItemProxy */;
+			remoteRef = FE08253F2183233400AE56A6 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		FE08257C2183317700AE56A6 /* libRNBlur.a */ = {
+		FE0825422183233400AE56A6 /* libRNBlur.a */ = {
 			isa = PBXReferenceProxy;
 			fileType = archive.ar;
 			path = libRNBlur.a;
-			remoteRef = FE08257B2183317700AE56A6 /* PBXContainerItemProxy */;
+			remoteRef = FE0825412183233400AE56A6 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
 /* End PBXReferenceProxy section */
